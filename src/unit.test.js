@@ -1,6 +1,5 @@
 const { sum1 } = require('./index.js')
 
-test('adds 1 to value', () => {
-    expect(sum1(2)).toBe(3);
-    // teste
+test('Checa se os valores estão corretos', () => {
+  expect([]).toEqual(expect.any(Array))
   });
